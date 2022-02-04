@@ -1,0 +1,15 @@
+C:\BootCamp GFT Start3\Aprofundando em CSharp\DemoValueTypes\bin\Debug\net6.0\DemoValueTypes.exe
+C:\BootCamp GFT Start3\Aprofundando em CSharp\DemoValueTypes\bin\Debug\net6.0\DemoValueTypes.deps.json
+C:\BootCamp GFT Start3\Aprofundando em CSharp\DemoValueTypes\bin\Debug\net6.0\DemoValueTypes.runtimeconfig.json
+C:\BootCamp GFT Start3\Aprofundando em CSharp\DemoValueTypes\bin\Debug\net6.0\DemoValueTypes.dll
+C:\BootCamp GFT Start3\Aprofundando em CSharp\DemoValueTypes\bin\Debug\net6.0\ref\DemoValueTypes.dll
+C:\BootCamp GFT Start3\Aprofundando em CSharp\DemoValueTypes\bin\Debug\net6.0\DemoValueTypes.pdb
+C:\BootCamp GFT Start3\Aprofundando em CSharp\DemoValueTypes\obj\Debug\net6.0\DemoValueTypes.csproj.AssemblyReference.cache
+C:\BootCamp GFT Start3\Aprofundando em CSharp\DemoValueTypes\obj\Debug\net6.0\DemoValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCamp GFT Start3\Aprofundando em CSharp\DemoValueTypes\obj\Debug\net6.0\DemoValueTypes.AssemblyInfoInputs.cache
+C:\BootCamp GFT Start3\Aprofundando em CSharp\DemoValueTypes\obj\Debug\net6.0\DemoValueTypes.AssemblyInfo.cs
+C:\BootCamp GFT Start3\Aprofundando em CSharp\DemoValueTypes\obj\Debug\net6.0\DemoValueTypes.csproj.CoreCompileInputs.cache
+C:\BootCamp GFT Start3\Aprofundando em CSharp\DemoValueTypes\obj\Debug\net6.0\DemoValueTypes.dll
+C:\BootCamp GFT Start3\Aprofundando em CSharp\DemoValueTypes\obj\Debug\net6.0\ref\DemoValueTypes.dll
+C:\BootCamp GFT Start3\Aprofundando em CSharp\DemoValueTypes\obj\Debug\net6.0\DemoValueTypes.pdb
+C:\BootCamp GFT Start3\Aprofundando em CSharp\DemoValueTypes\obj\Debug\net6.0\DemoValueTypes.genruntimeconfig.cache
