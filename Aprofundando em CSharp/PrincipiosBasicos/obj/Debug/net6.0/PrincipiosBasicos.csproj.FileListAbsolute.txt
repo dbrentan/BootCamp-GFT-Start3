@@ -1,0 +1,15 @@
+C:\BootCamp GFT -3\Aprofundando em CSharp\PrincipiosBasicos\bin\Debug\net6.0\PrincipiosBasicos.exe
+C:\BootCamp GFT -3\Aprofundando em CSharp\PrincipiosBasicos\bin\Debug\net6.0\PrincipiosBasicos.deps.json
+C:\BootCamp GFT -3\Aprofundando em CSharp\PrincipiosBasicos\bin\Debug\net6.0\PrincipiosBasicos.runtimeconfig.json
+C:\BootCamp GFT -3\Aprofundando em CSharp\PrincipiosBasicos\bin\Debug\net6.0\PrincipiosBasicos.dll
+C:\BootCamp GFT -3\Aprofundando em CSharp\PrincipiosBasicos\bin\Debug\net6.0\ref\PrincipiosBasicos.dll
+C:\BootCamp GFT -3\Aprofundando em CSharp\PrincipiosBasicos\bin\Debug\net6.0\PrincipiosBasicos.pdb
+C:\BootCamp GFT -3\Aprofundando em CSharp\PrincipiosBasicos\obj\Debug\net6.0\PrincipiosBasicos.csproj.AssemblyReference.cache
+C:\BootCamp GFT -3\Aprofundando em CSharp\PrincipiosBasicos\obj\Debug\net6.0\PrincipiosBasicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCamp GFT -3\Aprofundando em CSharp\PrincipiosBasicos\obj\Debug\net6.0\PrincipiosBasicos.AssemblyInfoInputs.cache
+C:\BootCamp GFT -3\Aprofundando em CSharp\PrincipiosBasicos\obj\Debug\net6.0\PrincipiosBasicos.AssemblyInfo.cs
+C:\BootCamp GFT -3\Aprofundando em CSharp\PrincipiosBasicos\obj\Debug\net6.0\PrincipiosBasicos.csproj.CoreCompileInputs.cache
+C:\BootCamp GFT -3\Aprofundando em CSharp\PrincipiosBasicos\obj\Debug\net6.0\PrincipiosBasicos.dll
+C:\BootCamp GFT -3\Aprofundando em CSharp\PrincipiosBasicos\obj\Debug\net6.0\ref\PrincipiosBasicos.dll
+C:\BootCamp GFT -3\Aprofundando em CSharp\PrincipiosBasicos\obj\Debug\net6.0\PrincipiosBasicos.pdb
+C:\BootCamp GFT -3\Aprofundando em CSharp\PrincipiosBasicos\obj\Debug\net6.0\PrincipiosBasicos.genruntimeconfig.cache
